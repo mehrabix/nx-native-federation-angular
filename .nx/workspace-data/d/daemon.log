@@ -20,3 +20,47 @@
 [NX Daemon Server] - 2024-10-25T20:09:58.115Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (sources)
 [NX Daemon Server] - 2024-10-25T20:09:58.115Z - Closed a connection. Number of open connections: 0
 [NX Daemon Server] - 2024-10-25T20:09:58.116Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (outputs)
+[NX Daemon Server] - 2024-10-25T20:18:04.827Z - Started listening on: /tmp/8ab4f8677a6ff6d6ada9/d.sock
+[NX Daemon Server] - 2024-10-25T20:18:04.831Z - [WATCHER]: Subscribed to changes within: /home/aaron/playground/nx-nf (native)
+[NX Daemon Server] - 2024-10-25T20:18:04.840Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:18:04.841Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-25T20:18:04.845Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:18:04.848Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:18:04.850Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:18:04.851Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-10-25T20:18:04.852Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (sources)
+[NX Daemon Server] - 2024-10-25T20:18:04.853Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-25T20:18:04.853Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (outputs)
+[NX Daemon Server] - 2024-10-25T20:34:48.961Z - Started listening on: /tmp/8ab4f8677a6ff6d6ada9/d.sock
+[NX Daemon Server] - 2024-10-25T20:34:48.965Z - [WATCHER]: Subscribed to changes within: /home/aaron/playground/nx-nf (native)
+[NX Daemon Server] - 2024-10-25T20:34:48.969Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:34:48.970Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-25T20:34:48.973Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:34:48.976Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:34:48.985Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:34:48.985Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 10.
+[NX Daemon Server] - 2024-10-25T20:34:48.991Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-25T20:34:48.995Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (sources)
+[NX Daemon Server] - 2024-10-25T20:34:48.996Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (outputs)
+[NX Daemon Server] - 2024-10-25T20:35:37.260Z - Started listening on: /tmp/8ab4f8677a6ff6d6ada9/d.sock
+[NX Daemon Server] - 2024-10-25T20:35:37.265Z - [WATCHER]: Subscribed to changes within: /home/aaron/playground/nx-nf (native)
+[NX Daemon Server] - 2024-10-25T20:35:37.269Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:35:37.270Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-25T20:35:37.273Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:35:37.289Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:35:37.290Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:35:37.291Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-10-25T20:35:37.302Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-25T20:35:37.303Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (sources)
+[NX Daemon Server] - 2024-10-25T20:35:37.304Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (outputs)
+[NX Daemon Server] - 2024-10-25T20:35:45.575Z - Started listening on: /tmp/8ab4f8677a6ff6d6ada9/d.sock
+[NX Daemon Server] - 2024-10-25T20:35:45.578Z - [WATCHER]: Subscribed to changes within: /home/aaron/playground/nx-nf (native)
+[NX Daemon Server] - 2024-10-25T20:35:45.585Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:35:45.587Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-25T20:35:45.590Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-25T20:35:45.592Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:35:45.593Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-25T20:35:45.594Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-10-25T20:35:45.597Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (sources)
+[NX Daemon Server] - 2024-10-25T20:35:45.597Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-25T20:35:45.597Z - [WATCHER]: Stopping the watcher for /home/aaron/playground/nx-nf (outputs)

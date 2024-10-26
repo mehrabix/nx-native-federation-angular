@@ -8,11 +8,11 @@
     "src/main.ts"
   ],
   "include": [
-    "src/**/*.d.ts",
-    "..\\..\\libs\\native-federation-overrides\\src\\index.ts"
+    "src/**/*.d.ts"
   ],
   "exclude": [
     "jest.config.ts",
-    "src*.spec.ts"
+    "src/**/*.test.ts",
+    "src/**/*.spec.ts"
   ]
 }
